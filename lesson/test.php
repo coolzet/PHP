@@ -1,0 +1,1 @@
+require_once ('copy_2.php')
